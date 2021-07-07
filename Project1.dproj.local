@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016.04.27 14:01:04.953.pas,C:\Documents and Settings\stud\Мои документы\RAD Studio\Projects\Unit1.pas=E:\Курсовая\Delphi\UMain.pas</Transaction>
+    <Transaction>2016.04.27 14:01:04.953.dfm,C:\Documents and Settings\stud\Мои документы\RAD Studio\Projects\Unit1.dfm=E:\Курсовая\Delphi\UMain.dfm</Transaction>
+    <Transaction>2016.04.27 14:01:25.484.dproj,C:\Documents and Settings\stud\Мои документы\RAD Studio\Projects\Project1.dproj=E:\Курсовая\Delphi\Project1.dproj</Transaction>
+    <Transaction>2016.04.27 14:29:30.609.pas,E:\Курсовая\Delphi\Unit2.pas=E:\Курсовая\Delphi\Unit1.pas</Transaction>
+    <Transaction>2016.04.27 14:29:30.609.dfm,E:\Курсовая\Delphi\Unit2.dfm=E:\Курсовая\Delphi\Unit1.dfm</Transaction>
+    <Transaction>2016.04.27 14:39:40.765.pas,E:\Курсовая\Delphi\Unit3.pas=E:\Курсовая\Delphi\Unit2pas.pas</Transaction>
+    <Transaction>2016.04.27 14:39:40.765.dfm,E:\Курсовая\Delphi\Unit3.dfm=E:\Курсовая\Delphi\Unit2pas.dfm</Transaction>
+    <Transaction>2016.04.27 14:39:54.734.pas,E:\Курсовая\Delphi\Unit2pas.pas=E:\Курсовая\Delphi\Unit2.pas</Transaction>
+    <Transaction>2016.04.27 14:39:54.734.dfm,E:\Курсовая\Delphi\Unit2pas.dfm=E:\Курсовая\Delphi\Unit2.dfm</Transaction>
+    <Transaction>2016.04.27 14:40:48.328.pas,E:\Курсовая\Delphi\Unit4.pas=E:\Курсовая\Delphi\Unit3.pas</Transaction>
+    <Transaction>2016.04.27 14:40:48.328.dfm,E:\Курсовая\Delphi\Unit4.dfm=E:\Курсовая\Delphi\Unit3.dfm</Transaction>
+    <Transaction>2016.04.27 14:41:16.437.pas,E:\Курсовая\Delphi\Unit5.pas=E:\Курсовая\Delphi\Unit4.pas</Transaction>
+    <Transaction>2016.04.27 14:41:16.437.dfm,E:\Курсовая\Delphi\Unit5.dfm=E:\Курсовая\Delphi\Unit4.dfm</Transaction>
+    <Transaction>2016.04.27 14:41:49.953.pas,E:\Курсовая\Delphi\Unit6.pas=E:\Курсовая\Delphi\Unit5.pas</Transaction>
+    <Transaction>2016.04.27 14:41:49.953.dfm,E:\Курсовая\Delphi\Unit6.dfm=E:\Курсовая\Delphi\Unit5.dfm</Transaction>
+    <Transaction>2016.05.29 17:37:55.041.pas,C:\Users\Dima\Dropbox\Курсовая\Delphi\Unit7.pas=C:\Users\Dima\Dropbox\Курсовая\Delphi\About.pas</Transaction>
+    <Transaction>2016.05.29 17:37:55.041.dfm,C:\Users\Dima\Dropbox\Курсовая\Delphi\Unit7.dfm=C:\Users\Dima\Dropbox\Курсовая\Delphi\About.dfm</Transaction>
+    <Transaction>2016.05.29 18:00:27.470.pas,C:\Users\Dima\Dropbox\Курсовая\Delphi\Unit6.pas=C:\Users\Dima\Dropbox\Курсовая\Delphi\Print.pas</Transaction>
+    <Transaction>2016.05.29 18:00:54.831.pas,C:\Users\Dima\Dropbox\Курсовая\Delphi\Print.pas=C:\Users\Dima\Dropbox\Курсовая\Delphi\Printing.pas</Transaction>
+    <Transaction>2016.05.29 18:36:17.558.pas,C:\Users\Dima\Dropbox\Курсовая\Delphi\About.pas=C:\Users\Dima\Dropbox\Курсовая\Delphi\UAbout.pas</Transaction>
+    <Transaction>2016.05.29 18:36:17.558.dfm,C:\Users\Dima\Dropbox\Курсовая\Delphi\About.dfm=C:\Users\Dima\Dropbox\Курсовая\Delphi\UAbout.dfm</Transaction>
+    <Transaction>2016.05.29 19:50:05.621.pas,C:\Users\Dima\Dropbox\Курсовая\Delphi\Printing.pas=C:\Users\Dima\Dropbox\Курсовая\Delphi\ГPrinting.pas</Transaction>
+    <Transaction>2016.05.29 19:50:19.134.pas,C:\Users\Dima\Dropbox\Курсовая\Delphi\ГPrinting.pas=C:\Users\Dima\Dropbox\Курсовая\Delphi\UPrinting.pas</Transaction>
+    <Transaction>2016.05.29 20:20:17.855.pas,C:\Users\Dima\Dropbox\Курсовая\Delphi\UAbout.pas=</Transaction>
+    <Transaction>2016.05.29 20:20:17.855.dfm,C:\Users\Dima\Dropbox\Курсовая\Delphi\UAbout.dfm=</Transaction>
+    <Transaction>2016.05.29 20:22:37.093.pas,C:\Users\Dima\Dropbox\Курсовая\Delphi\Unit7.pas=C:\Users\Dima\Dropbox\Курсовая\Delphi\UAbout.pas</Transaction>
+    <Transaction>2016.05.29 20:22:37.093.dfm,C:\Users\Dima\Dropbox\Курсовая\Delphi\Unit7.dfm=C:\Users\Dima\Dropbox\Курсовая\Delphi\UAbout.dfm</Transaction>
+    <Transaction>2016.06.14 11:15:16.656.pas,E:\Курсовая\Delphi\Unit9.pas=E:\Курсовая\Delphi\Unit6.pas</Transaction>
+    <Transaction>2016.06.14 11:15:16.656.dfm,E:\Курсовая\Delphi\Unit9.dfm=E:\Курсовая\Delphi\Unit6.dfm</Transaction>
+    <Transaction>2016.06.15 19:20:18.562.pas,E:\Курсовая\Delphi\Unit10.pas=E:\Курсовая\Delphi\Unit7.pas</Transaction>
+    <Transaction>2016.06.15 19:20:18.562.dfm,E:\Курсовая\Delphi\Unit10.dfm=E:\Курсовая\Delphi\Unit7.dfm</Transaction>
+    <Transaction>2016.06.16 10:10:13.296.pas,E:\Курсовая\Delphi\UPrinting.pas=</Transaction>
+    <Transaction>2016.06.16 10:29:57.281.pas,E:\Курсовая\Delphi\Unit9.pas=E:\Курсовая\Delphi\UPrinting.pas</Transaction>
+    <Transaction>2016.06.21 23:10:05.529.pas,E:\Курсовая\Delphi\Unit11.pas=E:\Курсовая\Delphi\UPic.pas</Transaction>
+    <Transaction>2016.06.21 23:10:05.529.dfm,E:\Курсовая\Delphi\Unit11.dfm=E:\Курсовая\Delphi\UPic.dfm</Transaction>
+    <Transaction>2016.06.24 12:55:56.015.pas,E:\Курсовая\Delphi\Unit15.pas=</Transaction>
+    <Transaction>2016.06.24 12:55:56.015.dfm,E:\Курсовая\Delphi\Unit15.dfm=</Transaction>
+    <Transaction>2016.06.27 20:02:15.369.pas,C:\Users\Dima\Downloads\Delphi\Unit16.pas=C:\Users\Dima\Downloads\Delphi\Unit15.pas</Transaction>
+    <Transaction>2016.06.27 20:02:15.369.dfm,C:\Users\Dima\Downloads\Delphi\Unit16.dfm=C:\Users\Dima\Downloads\Delphi\Unit15.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
